@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "Stock Trading Website",
+        "description" : "This is a stock investing website pretty similiar to Fidelity. There are four main functions, which  tracks stock price changes, provides stock news, allows people to add stock to faviour list and allows us to buy and sell stocks.",
+        "link" : "https://www.youtube.com/watch?v=RT7kbsRUAco&t=123s"
+    },
+    {
+        "name" : "Top Song Search Engine (Firebase Version)",
+        "description" : "This project will help people find popular music songs and their details through different platforms, as well as top songs from 2010 to 2020. This project also compares the music people liked a few years ago with the music people like now, to see if nostalgic songs have the characteristics of a resurgence.Users will be able to see how popular songs from the past few years are now performing on Spotify and TikTok.  And users can query through lots of properties (artist, rank of song, loudness of song, danceability of song …) to find their desired songs.",
+        "link" : "https://github.com/yuedeng1998/Firebase_TopSong"
+    },
+    {
+        "name" : "Little Prince Video Game",
+        "description" : "Little Prince video game, which was a project completed by a group of 6 people, which is RPG video game, similar in gameplay to 'Legend of Zelda', which involved fighting or avoiding enemies on different planets and finding the key to access the next planet.  Each level has different “themes” that fit each planet (like Super Mario).",
+        "link" : "https://github.com/yuedeng1998/The-little-prince-Video-Game"
+    },
+    {
+        "name" : "Top Song Search Engine (MongoDB Version)",
+        "description" : "This is a MongoDB Version of the top song search engine, the database of the search engine and the EDFS simulation is built using MongoDB instead of Firebase",
+        "link" : "https://github.com/yuedeng1998/MangoDB_Project"
+    }
+]
